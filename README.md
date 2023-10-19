@@ -21,4 +21,4 @@ This is a simple JSON database file that can be used with the JSON server packag
 
 ## Usage
 
-This file serves as a stateless "database" that is used for the service My [JSON Server](https://my-json-server.typicode.com/)
+This file serves as a stateless "database" that is used for the service [My JSON Server](https://my-json-server.typicode.com/)
